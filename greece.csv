@@ -1,0 +1,409 @@
+city,lat,lng,Region
+Athens,37.9794,23.7161,Attiki
+Piraeus,37.95,23.7,Attiki
+Thessaloniki,40.6333,22.95,Kentriki Makedonia
+Patra,38.25,21.7333,Dytiki Ellada
+Larisa,39.6385,22.4131,Thessalia
+Irakleio,35.3333,25.1333,Kriti
+Peristeri,38.0167,23.6833,Attiki
+Kallithea,37.95,23.7,Attiki
+Nikaia,37.9667,23.6333,Attiki
+Glyfada,37.88,23.7533,Attiki
+Volos,39.3611,22.9425,Thessalia
+Chalandri,38.0167,23.8,Attiki
+Kalamata,37.0389,22.1142,Peloponnisos
+Nea Ionia,38.0333,23.75,Attiki
+Ioannina,39.6647,20.8519,ipeiros
+Trikala,39.55,21.7667,Thessalia
+Chalkida,38.4625,23.595,Sterea Ellada
+Serres,41.0833,23.55,Kentriki Makedonia
+Alexandroupoli,40.85,25.8667,Anatoliki Makedonia kai Thraki
+Rodos,36.4412,28.2225,Notio Aigaio
+Xanthi,41.1333,24.8833,Anatoliki Makedonia kai Thraki
+Katerini,40.2667,22.5,Kentriki Makedonia
+Kavala,40.9396,24.4069,Anatoliki Makedonia kai Thraki
+Chania,35.5167,24.0167,Kriti
+Lamia,38.8972,22.4311,Sterea Ellada
+Komotini,41.1167,25.4,Anatoliki Makedonia kai Thraki
+Agrinio,38.6167,21.4,Dytiki Ellada
+Drama,41.1514,24.1392,Anatoliki Makedonia kai Thraki
+Veroia,40.5203,22.2019,Kentriki Makedonia
+Kozani,40.3007,21.789,Dytiki Makedonia
+Karditsa,39.3647,21.9219,Thessalia
+Rethymno,35.3667,24.4667,Kriti
+Tripoli,37.5083,22.375,Peloponnisos
+Korinthos,37.9333,22.9333,Peloponnisos
+Giannitsa,40.7962,22.4145,Kentriki Makedonia
+Mytilini,39.1114,26.5621,Voreio Aigaio
+Chios,38.3725,26.1375,Voreio Aigaio
+Nea Filadelfeia,38.035,23.7381,Attiki
+Salamina,37.9333,23.5,Attiki
+Elefsina,38.0414,23.5453,Attiki
+Kerkyra,39.6239,19.9214,Ionia Nisia
+Pyrgos,37.6667,21.4333,Dytiki Ellada
+Megara,38,23.3333,Attiki
+Kilkis,40.9954,22.8765,Kentriki Makedonia
+Pefki,38.0667,23.8,Attiki
+Livadeia,38.4333,22.8667,Sterea Ellada
+Kos,36.8442,27.1572,Notio Aigaio
+Preveza,38.95,20.75,ipeiros
+Orestiada,41.5,26.5333,Anatoliki Makedonia kai Thraki
+edessa,40.8,22.05,Kentriki Makedonia
+Sparti,37.0819,22.4236,Peloponnisos
+Thermi,40.5472,23.0197,Kentriki Makedonia
+Alexandreia,40.6283,22.4454,Kentriki Makedonia
+Paiania,37.95,23.85,Attiki
+Nafplio,37.5667,22.8,Peloponnisos
+Nafpaktos,38.3917,21.8275,Dytiki Ellada
+Kastoria,40.5181,21.2688,Dytiki Makedonia
+Kalymnos,36.9512,26.9832,Notio Aigaio
+Ermoupoli,37.4504,24.9333,Notio Aigaio
+agios Nikolaos,35.1892,25.7173,Kriti
+Tyrnavos,39.7353,22.2869,Thessalia
+Diavata,40.6883,22.8583,Kentriki Makedonia
+Kiato,38.0117,22.7467,Peloponnisos
+Anatoli,39.6386,20.8661,ipeiros
+Argostoli,38.1739,20.4883,Ionia Nisia
+Lykovrysi,38.0667,23.7833,Attiki
+Porto Rafti,37.8844,24.0125,Attiki
+Nea Artaki,38.5167,23.6333,Sterea Ellada
+Zefyri,38.0667,23.7167,Attiki
+Siteia,35.2,26.1,Kriti
+Nea Moudania,40.2386,23.2814,Kentriki Makedonia
+Farsala,39.2833,22.3833,Thessalia
+Sindos,40.6667,22.8,Kentriki Makedonia
+Didymoteicho,41.35,26.5,Anatoliki Makedonia kai Thraki
+Spata,37.9667,23.9167,Attiki
+Epanomi,40.4261,22.9281,Kentriki Makedonia
+Chrysoupoli,40.9833,24.7,Anatoliki Makedonia kai Thraki
+Nea Peramos,38,23.4167,Attiki
+Kalampaka,39.7044,21.6269,Thessalia
+Almyros,39.18,22.76,Thessalia
+Koufalia,40.7792,22.5767,Kentriki Makedonia
+Giannouli,39.6672,22.3958,Thessalia
+Lagkadas,40.75,23.0667,Kentriki Makedonia
+Mournies,35.485,24.013,Kriti
+argos Orestiko,40.4525,21.2581,Dytiki Makedonia
+Elassona,39.8947,22.1886,Thessalia
+Chalastra,40.6267,22.7322,Kentriki Makedonia
+Nea Kallikrateia,40.3139,23.0633,Kentriki Makedonia
+Karpenisi,38.9203,21.7833,Sterea Ellada
+Marathonas,38.155,23.9636,Attiki
+Lavrio,37.7,24.05,Attiki
+Polykastro,40.9954,22.5714,Kentriki Makedonia
+Litochoro,40.1028,22.5069,Kentriki Makedonia
+amfissa,38.5253,22.3753,Sterea Ellada
+Aigina,37.7467,23.4275,Attiki
+Neo Karlovasi,37.7917,26.7051,Voreio Aigaio
+Kato Achaia,38.15,21.55,Dytiki Ellada
+Aridaia,40.975,22.0583,Kentriki Makedonia
+anoixi,38.1333,23.8667,Attiki
+Souda,35.4833,24.0667,Kriti
+Kounoupidiana,35.536,24.076,Kriti
+Anavyssos,37.7333,23.95,Attiki
+Polygyros,40.3783,23.4453,Kentriki Makedonia
+Messini,37.05,22,Peloponnisos
+Neoi Epivates,40.501,22.909,Kentriki Makedonia
+Filiatra,37.1572,21.5858,Peloponnisos
+Psachna,38.5828,23.6328,Sterea Ellada
+Megalopoli,37.4,22.1333,Peloponnisos
+Myrina,39.8797,25.0742,Voreio Aigaio
+Dionysos,38.1,23.8667,Attiki
+Nerokouros,35.4758,24.0383,Kriti
+Xylokastro,38.0667,22.6333,Peloponnisos
+Filyro,40.6911,23.0042,Kentriki Makedonia
+Siatista,40.2564,21.5522,Dytiki Makedonia
+Feres,40.8933,26.1739,Anatoliki Makedonia kai Thraki
+Skydra,40.7667,22.15,Kentriki Makedonia
+Archangelos,36.2167,28.1167,Notio Aigaio
+Kremasti,36.4105,28.1191,Notio Aigaio
+Vrontados,38.4167,26.1333,Voreio Aigaio
+Tympaki,35.0719,24.7683,Kriti
+Orchomenos,38.4933,22.9749,Sterea Ellada
+Agria,39.34,23.0133,Thessalia
+Nea Anchialos,39.2667,22.8167,Thessalia
+Kyparissia,37.2333,21.6667,Peloponnisos
+Gargalianoi,37.0667,21.6333,Peloponnisos
+agios Athanasios,40.7161,22.7283,Kentriki Makedonia
+Nigrita,40.9133,23.5014,Kentriki Makedonia
+Skiathos,39.1652,23.4895,Thessalia
+Chortiatis,40.6083,23.1028,Kentriki Makedonia
+Aliveri,38.4083,24.0417,Sterea Ellada
+Tinos,37.5377,25.1611,Notio Aigaio
+Magoula,38.0833,23.5167,Attiki
+Ampelakia,37.95,23.5167,Attiki
+Vonitsa,38.9153,20.8911,Dytiki Ellada
+Filippiada,39.2028,20.8842,ipeiros
+Aliartos,38.3667,23.1,Sterea Ellada
+Zevgolatio,37.9333,22.8,Peloponnisos
+Itea,38.4333,22.4333,Sterea Ellada
+Istiaia,38.95,23.15,Sterea Ellada
+Paros,37.085,25.151,Notio Aigaio
+Arkalochori,35.15,25.2667,Kriti
+Gytheio,36.7617,22.5661,Peloponnisos
+Nea Magnisia,40.6878,22.8458,Kentriki Makedonia
+Kissamos,35.4833,23.65,Kriti
+Vouliagmeni,37.8,23.7833,Attiki
+Aiginio,40.5022,22.5422,Kentriki Makedonia
+Kitsi,37.8456,23.8267,Attiki
+Schimatari,38.35,23.5833,Sterea Ellada
+Aitoliko,38.4369,21.3536,Dytiki Ellada
+Kranidi,37.375,23.1583,Peloponnisos
+Spetses,37.2591,23.1364,Attiki
+Andravida,37.9058,21.2667,Dytiki Ellada
+Katsikas,39.6228,20.8875,ipeiros
+Nea Raidestos,40.5239,23.0508,Kentriki Makedonia
+Nemea,37.8167,22.6667,Peloponnisos
+Soufli,41.1942,26.3023,Anatoliki Makedonia kai Thraki
+Amfilochia,38.8592,21.1758,Dytiki Ellada
+Mykonos,37.4453,25.3287,Notio Aigaio
+Vasilika,40.48,23.1367,Kentriki Makedonia
+Leonidio,37.1667,22.85,Peloponnisos
+Lixouri,38.2,20.4333,Ionia Nisia
+Leptokarya,40.0603,22.5612,Kentriki Makedonia
+Stavros,40.6642,23.6961,Kentriki Makedonia
+Amyntaio,40.6897,21.6797,Dytiki Makedonia
+Kimmeria,41.1475,24.9388,Anatoliki Makedonia kai Thraki
+Goumenissa,40.9481,22.4519,Kentriki Makedonia
+Vartholomio,37.8622,21.2058,Dytiki Ellada
+Lagyna,40.7233,23.005,Kentriki Makedonia
+Prosotsani,41.1786,23.9722,Anatoliki Makedonia kai Thraki
+Nea Peramos,40.8389,24.3036,Anatoliki Makedonia kai Thraki
+Korinos,40.3167,22.5833,Kentriki Makedonia
+Krinides,41.0131,24.295,Anatoliki Makedonia kai Thraki
+Velventos,40.2547,22.0742,Dytiki Makedonia
+Kapandriti,38.2167,23.8833,Attiki
+Sapes,41.0333,25.7,Anatoliki Makedonia kai Thraki
+Vrachati,37.95,22.8,Peloponnisos
+Liti,40.7447,22.9781,Kentriki Makedonia
+Ierissos,40.3983,23.8783,Kentriki Makedonia
+Thasos,40.7781,24.7094,Anatoliki Makedonia kai Thraki
+Malia,35.2836,25.4625,Kriti
+Neos Marmaras,40.0967,23.7831,Kentriki Makedonia
+agios Athanasios,41.0753,24.2456,Anatoliki Makedonia kai Thraki
+Zacharo,37.4861,21.6494,Dytiki Ellada
+Kallithea,40.275,22.575,Kentriki Makedonia
+Meliki,40.5167,22.4,Kentriki Makedonia
+Kalampaki,41.05,24.1833,Anatoliki Makedonia kai Thraki
+Nea Triglia,40.3061,23.2086,Kentriki Makedonia
+Sochos,40.8164,23.3542,Kentriki Makedonia
+Skala,36.8525,22.6661,Peloponnisos
+Ntrafi,38.0333,23.9,Attiki
+Maniakoi,40.5019,21.2447,Dytiki Makedonia
+Nea Mesimvria,40.7517,22.7692,Kentriki Makedonia
+Velestino,39.3817,22.745,Thessalia
+Plomari,38.9833,26.3667,Voreio Aigaio
+Ormylia,40.2944,23.5433,Kentriki Makedonia
+Neo Rysi,40.4961,22.9881,Kentriki Makedonia
+Konitsa,40.0417,20.745,ipeiros
+Lefkimmi,39.4167,20.0667,Ionia Nisia
+Panaitolio,38.5833,21.4461,Dytiki Ellada
+Saronida,37.7333,23.9,Attiki
+Axioupoli,40.9867,22.5414,Kentriki Makedonia
+Erythres,38.2167,23.3167,Attiki
+Asprovalta,40.719,23.7095,Kentriki Makedonia
+Katochi,38.4142,21.2542,Dytiki Ellada
+Neochori,38.4083,21.275,Dytiki Ellada
+Kolindros,40.4783,22.4861,Kentriki Makedonia
+Nea Vyssa,41.5833,26.5333,Anatoliki Makedonia kai Thraki
+Nea Kios,37.5833,22.7333,Peloponnisos
+Kassandreia,40.0467,23.4161,Kentriki Makedonia
+Kamena Vourla,38.7833,22.7833,Sterea Ellada
+Choristi,41.13,24.2083,Anatoliki Makedonia kai Thraki
+Palaia Fokaia,37.7167,23.95,Attiki
+Nikiti,40.2228,23.6686,Kentriki Makedonia
+Karpathos,35.5075,27.2136,Notio Aigaio
+Spercheiada,38.9167,22.1333,Sterea Ellada
+Lechaina,37.9333,21.2667,Dytiki Ellada
+iasmos,41.1275,25.1844,Anatoliki Makedonia kai Thraki
+Molaoi,36.8042,22.8547,Peloponnisos
+Filiates,39.6011,20.3119,ipeiros
+Metsovo,39.7703,21.1839,ipeiros
+Agia Marina,37.1568,26.8533,Notio Aigaio
+Paramythia,39.4667,20.5,ipeiros
+Pylos,36.9,21.6833,Peloponnisos
+agios Kirykos,37.6114,26.2931,Voreio Aigaio
+Galatas,37.4967,23.4475,Attiki
+Kato Nevrokopi,41.3439,23.8667,Anatoliki Makedonia kai Thraki
+Astakos,38.5333,21.0833,Dytiki Ellada
+Samos,37.7475,26.9825,Voreio Aigaio
+Krestena,37.5917,21.62,Dytiki Ellada
+Kato Tithorea,38.6,22.7167,Sterea Ellada
+Thermo,38.5736,21.6664,Dytiki Ellada
+Kalavryta,38.0308,22.1086,Dytiki Ellada
+Skyros,38.9064,24.5658,Sterea Ellada
+Fira,36.42,25.4317,Notio Aigaio
+Distomo,38.4293,22.6673,Sterea Ellada
+Domokos,39.1,22.3333,Sterea Ellada
+Genisea,41.0614,24.9624,Anatoliki Makedonia kai Thraki
+Kastelli,35.2089,25.3378,Kriti
+andros,37.8333,24.9333,Notio Aigaio
+Chalandritsa,38.1167,21.8,Dytiki Ellada
+Nea Smyrni,37.9454,23.7146,Attiki
+Ampelokipoi,40.654,22.9175,Kentriki Makedonia
+Dafni,37.9501,23.7312,Attiki
+agios Dimitrios,37.9342,23.7291,Attiki
+Korydallos,37.9811,23.6514,Attiki
+Galatsi,38.013,23.7533,Attiki
+Stavroupoli,40.6692,22.931,Kentriki Makedonia
+Kalamaria,40.5789,22.9485,Kentriki Makedonia
+Palaio Faliro,37.9302,23.7026,Attiki
+Agia Varvara,37.9883,23.6609,Attiki
+Aigaleo,37.9925,23.6781,Attiki
+Irakleio,38.054,23.7745,Attiki
+agioi Anargyroi,38.0324,23.7247,Attiki
+ilion,38.0323,23.7022,Attiki
+Keratsini,37.9643,23.6199,Attiki
+Kaisariani,37.9681,23.7595,Attiki
+Moschato,37.954,23.6815,Attiki
+Vrilissia,38.0354,23.8319,Attiki
+Zografos,37.9757,23.7691,Attiki
+Petroupoli,38.0396,23.6812,Attiki
+Cholargos,38.001,23.8008,Attiki
+Sykies,40.6474,22.9563,Kentriki Makedonia
+evosmos,40.6698,22.9088,Kentriki Makedonia
+Vyronas,37.9596,23.7529,Attiki
+Agia Paraskevi,38.0136,23.8255,Attiki
+alimos,37.9143,23.7159,Attiki
+Ilioupoli,37.9302,23.7514,Attiki
+Melissia,38.0512,23.8362,Attiki
+Metamorfosi,38.0639,23.7618,Attiki
+Marousi,38.0537,23.8077,Attiki
+Argyroupoli,37.9062,23.7507,Attiki
+Gerakas,38.0133,23.856,Attiki
+Psychiko,38.0131,23.7723,Attiki
+Voula,37.8459,23.7626,Attiki
+Peraia,40.499,22.9262,Kentriki Makedonia
+Chaidari,38.0079,23.6597,Attiki
+Zakynthos,37.7802,20.8956,Ionia Nisia
+Kifisia,38.0767,23.8208,Attiki
+Perama,37.9662,23.5739,Attiki
+agios Stefanos,38.1408,23.8591,Attiki
+Aigio,38.2493,22.0848,Dytiki Ellada
+Oraiokastro,40.7296,22.9165,Kentriki Makedonia
+Lefkada,38.8304,20.7044,Ionia Nisia
+Acharnes,38.0847,23.7372,Attiki
+ano Liosia,38.084,23.7023,Attiki
+Panorama,40.5853,23.0281,Kentriki Makedonia
+arta,39.1601,20.9856,ipeiros
+Gazi,35.3252,25.0662,Kriti
+Rafina,38.0232,24.0026,Attiki
+Florina,40.7807,21.4093,Dytiki Makedonia
+Naxos,37.1021,25.378,Notio Aigaio
+Ptolemaida,40.5121,21.678,Dytiki Makedonia
+argos,37.6306,22.7215,Peloponnisos
+Zevgolatio,38.0815,22.6193,Peloponnisos
+Moires,35.0517,24.875,Kriti
+Peza,35.2181,25.1929,Kriti
+Perama,35.3695,24.7039,Kriti
+Igoumenitsa,39.5034,20.2673,ipeiros
+Gastouni,37.8506,21.2534,Dytiki Ellada
+Gournes,35.3248,25.2776,Kriti
+Eleousa,39.7059,20.7928,ipeiros
+Aspropyrgos,38.0617,23.5894,Attiki
+Amaliada,37.7972,21.3495,Dytiki Ellada
+Koropi,37.9009,23.8723,Attiki
+Irakleia,41.1823,23.2822,Kentriki Makedonia
+Kanalaki,39.2331,20.6031,ipeiros
+Markopoulo,37.8833,23.9333,Attiki
+Archaia Olympia,37.6469,21.6256,Dytiki Ellada
+Ierapetra,35.0056,25.7333,Kriti
+Grevena,40.084,21.4291,Dytiki Makedonia
+Kalyvia Thorikou,37.8391,23.9276,Attiki
+Gerani,35.5168,23.878,Kriti
+Mouzaki,39.4288,21.6629,Thessalia
+Thebes,38.3239,23.3172,Sterea Ellada
+Karystos,38.0165,24.4204,Sterea Ellada
+Stylida,38.9144,22.6138,Sterea Ellada
+Meligalas,37.2237,21.9699,Peloponnisos
+Oropos,38.3017,23.7542,Attiki
+Agia,39.7188,22.7555,Thessalia
+Mesolongi,38.3714,21.4315,Dytiki Ellada
+Palamas,39.4644,22.0825,Thessalia
+Loutraki,37.975,22.9798,Peloponnisos
+Eretria,38.3971,23.7902,Sterea Ellada
+Peta,39.1677,21.0351,ipeiros
+Sofades,39.3344,22.0973,Thessalia
+Eleftheroupoli,40.9149,24.2542,Anatoliki Makedonia kai Thraki
+Fillyra,41.1216,25.6324,Anatoliki Makedonia kai Thraki
+Naousa,40.63,22.0684,Kentriki Makedonia
+evlalo,40.9812,24.8001,Anatoliki Makedonia kai Thraki
+Pyli,39.4596,21.6221,Thessalia
+Gaios,39.1961,20.1858,Ionia Nisia
+Poros,37.5167,23.4667,Attiki
+Chryso,41.0584,23.6514,Kentriki Makedonia
+Servia,40.1844,22.0005,Dytiki Makedonia
+Agkistri,37.7096,23.3472,Attiki
+Farkadona,39.5913,22.0686,Thessalia
+Patmos,37.3086,26.5474,Notio Aigaio
+Nikaia,39.5649,22.466,Thessalia
+Mandra,38.0747,23.4969,Attiki
+Sminthi,41.2289,24.8804,Anatoliki Makedonia kai Thraki
+Zagora,39.4444,23.1012,Thessalia
+Kardamyli,36.8877,22.2327,Peloponnisos
+Atalanti,38.654,22.997,Sterea Ellada
+agioi Deka,35.0582,24.9602,Kriti
+Nea Zichni,41.0312,23.8289,Kentriki Makedonia
+Elafonisos,36.509,22.9787,Peloponnisos
+Tzermiado,35.1991,25.4889,Kriti
+Kalpaki,39.8871,20.6249,ipeiros
+Sidirokastro,41.2361,23.3925,Kentriki Makedonia
+Ithaki,38.3626,20.7218,Ionia Nisia
+Limni,38.7659,23.3195,Sterea Ellada
+Leipsoi,37.2959,26.7695,Notio Aigaio
+Megisti,36.1483,29.5917,Notio Aigaio
+Oinousses,38.5158,26.2225,Voreio Aigaio
+Skopelos,39.1217,23.7276,Thessalia
+Spili,35.2168,24.5361,Kriti
+ano Syros,37.4512,24.9356,Notio Aigaio
+Pramanta,39.522,21.0986,ipeiros
+Symi,36.6145,27.8362,Notio Aigaio
+Rodolivos,40.9211,23.9746,Kentriki Makedonia
+ano Viannos,35.0539,25.41,Kriti
+Palaiochora,35.2313,23.6813,Kriti
+Apollonia,36.9744,24.724,Notio Aigaio
+Agia Kyriaki,39.5226,20.8836,ipeiros
+Fournoi,37.5768,26.4815,Voreio Aigaio
+Argalasti,39.2261,23.2173,Thessalia
+ydra,37.3469,23.4657,Attiki
+Asklipieio,37.5975,23.0747,Peloponnisos
+Deskati,39.9253,21.8102,Dytiki Makedonia
+Makrychori,39.8042,22.4923,Thessalia
+Agia Foteini,35.2542,24.6342,Kriti
+Folegandros,36.628,24.9199,Notio Aigaio
+Vryses,35.4545,23.6004,Kriti
+Mandraki,36.6104,27.1322,Notio Aigaio
+Antiparos,37.0404,25.0819,Notio Aigaio
+Anogeia,35.2907,24.8834,Kriti
+Morfovouni,39.3525,21.7504,Thessalia
+Kythira,36.1492,22.988,Attiki
+Lidoriki,38.5274,22.2051,Sterea Ellada
+Alonnisos,39.1494,23.8454,Thessalia
+Serifos,37.155,24.5064,Notio Aigaio
+ios,36.7233,25.2825,Notio Aigaio
+Vourgareli,39.3717,21.1833,ipeiros
+Kimolos,36.7937,24.5739,Notio Aigaio
+Samothraki,40.4743,25.5251,Anatoliki Makedonia kai Thraki
+Fry,35.4162,26.9231,Notio Aigaio
+Kythnos,37.4123,24.431,Notio Aigaio
+Kerasochori,39.0045,21.639,Sterea Ellada
+Ioulida,37.6397,24.3423,Notio Aigaio
+Chalki,36.2226,27.6113,Notio Aigaio
+Megalo Chorio,37.4578,26.9724,Notio Aigaio
+Astypalaia,36.5479,26.352,Notio Aigaio
+Asprangeloi,39.8226,20.7276,ipeiros
+Dimitsana,37.5957,22.0395,Peloponnisos
+Anthiro,39.3473,21.4586,Thessalia
+Amorgos,36.8318,25.8983,Notio Aigaio
+ano Kalentini,39.2515,21.1679,ipeiros
+Psara,38.5414,25.563,Voreio Aigaio
+Milos,36.7436,24.4225,Notio Aigaio
+Laimos,40.8359,21.1404,Dytiki Makedonia
+Megalo Chorio,36.4551,27.3469,Notio Aigaio
+Anafi,36.3509,25.7671,Notio Aigaio
+agios Efstratios,39.5391,24.9904,Voreio Aigaio
+Sikinos,36.6965,25.1199,Notio Aigaio
+Chora Sfakion,35.2018,24.1398,Kriti
+Nestorio,40.4134,21.0612,Dytiki Makedonia
+Paranesti,41.2668,24.502,Anatoliki Makedonia kai Thraki
+Kastri,34.8345,24.0864,Kriti
